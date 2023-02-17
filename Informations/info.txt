@@ -1,0 +1,16 @@
+two types of keywords :-
+1.)Sentimental => meaning matching
+2.)Laxical => word to word matching
+-------------------------------------------------------------------------------------------------
+KeyBERT is a minimal and easy-to-use keyword extraction technique that 
+leverages BERT embeddings to create keywords and keyphrases that are most similar to a document.
+-------------------------------------------------------------------------------------------------
+BERT(Bidirectional Encoder Representations from Transformers) is an open source 
+machine learning framework for natural language processing (NLP).
+It was invented to help computers understand the ambiguous meanings in text or the masked word in search queries.
+-------------------------------------------------------------------------------------------------
+RNN(Recurrent Nueral Network)->LSTM(Long Short Term Memory - 3 gates)->GRU(Gated recurrent units - 2 gates)->
+-------------------------------------------------------------------------------------------------
+KeyBERT is a minimal and easy-to-use keyword extraction technique that leverages BERT 
+embeddings to create keywords and keyphrases that are most similar to a document.
+-------------------------------------------------------------------------------------------------
