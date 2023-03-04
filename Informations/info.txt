@@ -14,3 +14,9 @@ RNN(Recurrent Nueral Network)->LSTM(Long Short Term Memory - 3 gates)->GRU(Gated
 KeyBERT is a minimal and easy-to-use keyword extraction technique that leverages BERT 
 embeddings to create keywords and keyphrases that are most similar to a document.
 -------------------------------------------------------------------------------------------------
+Rake is also keyword extractor
+------------------------------------------------
+# The diversity of the results between 0 and 1 if use_mmr is set to True.(diversity means different between words)
+# use_mmr is for Whether to use Maximal Marginal Relevance (MMR) for the selection of keywords/keyphrases.
+	(Maximum Marginal Relevance (MMR) is a ranking algorithm that has been widely used for subset selection.)
+---------------------------------------------------------------------------
